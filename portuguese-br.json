@@ -172,7 +172,7 @@
         "login-2fa-email-not-registered-error": "Falha ao reenviar e-mail.",
         "login-2fa-email-not-registered-feedback": "E-mail de confirmação enviado. Por favor verifique sua caixa de entrada.",
         "login-2fa-email-change-title": "Alterar e-mail",
-        "login-2fa-email-change-text": "Insira o seu novo e-mail de endereço abaixo.",
+        "login-2fa-email-change-text": "Insira o seu novo endereço de e-mail abaixo.",
         "login-2fa-email-change-error": "Falha ao alterar e-mail.",
         "login-2fa-email-change-feedback": "E-mail alterado com sucesso, uma confirmação de e-mail foi enviada para o seu novo e-mail. Por favor verifique sua caixa de entrada.",
 
