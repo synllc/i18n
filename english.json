@@ -68,7 +68,7 @@
         "settings-compactbtns": "Compact editor buttons",
         "settings-compactbtns-desc": "Reduces the size of the editor buttons.",
         "settings-squaretabs": "Compact tabs",
-        "settings-squaretabs-desc": "Use compare square tabs instead of round padded ones.",
+        "settings-squaretabs-desc": "Use compact square tabs instead of round padded ones.",
         "settings-lualsp": "Lua language server",
         "settings-lualsp-desc": "Enables the intelligent autocompletion and intellisense engine. Requires restart to apply.",
         "settings-tablength": "Tab Length",
