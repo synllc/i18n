@@ -25,7 +25,7 @@
         "tab-untitled": "Новая вкладка",
         "tab-defaults": "Synapse номер №1!",
         "warning-erase-title": "Стереть несохранённые данные",
-        "warning-erase-text": "Вы уверены, что хотите совершить данное действие? Весь несохраненный код будет стёрт!",
+        "warning-erase-text": "Вы уверены, что хотите совершить данное действие? Весь не сохраненный код будет стёрт!",
         "warning-instances": "Необходимых процессов не найдено.",
         "connections-enabled": "Подключения включены.",
         "connections-disabled": "Подключения выключены.",
@@ -38,7 +38,7 @@
         "page-settings": "Настройки",
 
         "settings-category-editor": "Редактор",
-        "settings-category-interface": "Интерфейс & расположение",
+        "settings-category-interface": "Интерфейс & планировка",
         "settings-category-console": "Консоль & логгинг",
         "settings-category-explorer": "Проводник",
         "settings-category-integrations": "Интеграции",
