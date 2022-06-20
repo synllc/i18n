@@ -100,7 +100,7 @@
         "settings-verticalnavcenter": "Убрать выравнивание элементов вертикальной панели",
         "settings-verticalnavcenter-desc": "Перемещает элементы вертикальной панели навигации наверх, вместо центра.",
         "settings-classiclayout": "Классическая планировка интерфейса",
-        "settings-classiclayout-desc": "Включает интерфейс классического редактора прошлых лет",
+        "settings-classiclayout-desc": "Включает планировку классического редактора прошлых лет",
         "settings-logconsole": "Сохранять логи с консоли в файл (console.log)",
         "settings-logconsole-desc": "Сохранять все консольные данные в файл console.log",
         "settings-autoconsole": "Включить консоль при запуске",
