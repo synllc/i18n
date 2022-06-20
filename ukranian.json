@@ -53,7 +53,7 @@
 
         "settings-experimentalsettings": "Експериментальні налаштування",
         "settings-experimentalsettings-desc": "Включати і виключати експериментальні налаштування. Це може призвести до помилок і непередбачених поведінки.",
-        "settings-minimap": "Міні-карта",
+        "settings-minimap": "Міні-мапа",
         "settings-minimap-desc": "Включати і виключати міні-карту.",
         "settings-editorstyle": "Позиція панелі дій в редакторі",
         "settings-editorstyle-desc": "Налаштування вертикальної позиціі для панелі дій в редакторі та вкладок.",
@@ -125,8 +125,8 @@
         "settings-filelist-desc": "Ви можете добавляти додакові папки в бокову панель.",
 
         "settings-minimap-opt1": "Без мині-карти",
-        "settings-minimap-opt2": "Міні-карта праворуч",
-        "settings-minimap-opt3": "Міні-карта ліворуч",
+        "settings-minimap-opt2": "Міні-мапа праворуч",
+        "settings-minimap-opt3": "Міні-мапа ліворуч",
         "settings-actionbar-opt1": "Поставити наліво (Класичний)",
         "settings-actionbar-opt2": "Поставити направо (Сучасний)",
         "settings-editor-opt1": "Дії внизу, вкладкі вверху",
