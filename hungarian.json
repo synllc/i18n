@@ -82,7 +82,7 @@
         "settings-smoothscroll": "Sima Mozgás",
         "settings-smoothscroll-desc": "Engedélyezi a sima görgetést a szerkesztőben.",
         "settings-animcursor": "Sima Kurzor",
-        "settings-animcursor-desc": "Engedélyezi a kurzor zökkenőmentes mozgását.",
+        "settings-animcursor-desc": "Engedélyezi a kurzor sima mozgását.",
         "settings-unsavedwarn": "Nem mentett figyelmeztetések megjelenítése",
         "settings-unsavedwarn-desc": "Figyelmeztetések jelennek meg, amikor megpróbálja törölni a nem mentett tartalmat.",
         "settings-scale": "Interfész Skála",
@@ -128,7 +128,7 @@
         "settings-minimap-opt2": "Minimap a jobb oldalon",
         "settings-minimap-opt3": "Minimap a bal oldalon",
         "settings-actionbar-opt1": "Balra igazítás (klasszikus stílus)",
-        "settings-actionbar-opt2": "Igazítás jobbra (modern stílus))",
+        "settings-actionbar-opt2": "Igazítás jobbra (modern stílus)",
         "settings-editor-opt1": "Műveletek alul, lapok felül",
         "settings-editor-opt2": "Műveletek felül, lapok alul",
         "settings-sidebar-opt1": "Igazítás balra",
@@ -138,7 +138,7 @@
 
         "settings-gistpat-dialog-title": "Gist Integráció",
         "settings-gistpat-dialog-request": "A Github Gist integrációhoz Github személyes hozzáférési token szükséges. Szeretnél létrehozni egyet? (megnyit egy böngészőablakot)",
-        "settings-gistpat-dialog-input": "Írja be alább a személyes hozzáférési tokenjét..",
+        "settings-gistpat-dialog-input": "Írja be alább a személyes hozzáférési tokenjét.",
 
         "page-theming": "Testreszabás",
         "theme-page-list": "Egyéni témák és beállítások",
@@ -196,7 +196,7 @@
         "login-corner-status-good": "A Synapse szerverek online vannak.",
         "login-corner-status-bad": "A Synapse szerverek offline vannak.",
 
-        "login-soft-blacklist": "Az engedélyét visszavonták a szolgáltatási feltételek megsértése miatt. A Synapse X csak akkor érhető el, ha új licencet vesz.",
+        "login-soft-blacklist": "Az engedélyét visszavonták a szolgáltatási feltételek megsértése miatt. A Synapse X csak akkor elérhető, ha új licencet vesz.",
         "login-hard-blacklist": "Fiókja feketelistára került a szolgáltatási feltételek megsértése miatt. A Synapse X használata tilos."
     }
 }
