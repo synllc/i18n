@@ -72,7 +72,7 @@
         "settings-lualsp": "Servidor de linguagem Lua",
         "settings-lualsp-desc": "Habilita o autocompletamento inteligente e o mecanismo intellisense. Necessita o reinício para aplicar.",
         "settings-tablength": "Tamanho da tabulação",
-        "settings-tablength-desc": "Muda a quantidade de tabs inseridas para a indentação", "Changes the amount of tabs inserted for indentation.",
+        "settings-tablength-desc": "Muda a quantidade de tabs inseridas para a indentação",
         "settings-fsize": "Tamanho da fonte",
         "settings-fsize-desc": "Muda o tamanho da fonte do editor",
         "settings-tablimit": "Limite de abas",
