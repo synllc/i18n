@@ -1,6 +1,6 @@
 {
-    "flag": "🇺🇸",
-    "name": "English",
+    "flag": "🇷🇸",
+    "name": "Serbian",
 
     "translation": {
         "page-editor": "Urednik",
@@ -67,9 +67,9 @@
         "settings-wordwrap-desc": "Preloma redove koji nisu vidljivi kada je ovo omogućeno.",
         "settings-compactbtns": "Compact editor buttons",
         "settings-compactbtns-desc": "Reduces the size of the editor buttons.",
-        "settings-squaretabs": "Compact tabs",
+        "settings-squaretabs": "Kompaktne kartice",
         "settings-squaretabs-desc": "Use compact square tabs instead of round padded ones.",
-        "settings-lualsp": "Lua language server",
+        "settings-lualsp": "Server za Lua jezik",
         "settings-lualsp-desc": "Enables the intelligent autocompletion and intellisense engine. Requires restart to apply.",
         "settings-tablength": "Duzina Kartice",
         "settings-tablength-desc": "Changes the amount of tabs inserted for indentation.",
