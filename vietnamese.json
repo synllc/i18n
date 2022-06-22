@@ -38,7 +38,7 @@
         "page-settings": "Cài đặt",
 
         "settings-category-editor": "Trình chỉnh sửa",
-        "settings-category-interface": "giao diện & Bố cục",
+        "settings-category-interface": "Giao diện & Bố cục",
         "settings-category-console": "Bảng điều khiển & Ghi chép",
         "settings-category-explorer": "Khám phá",
         "settings-category-integrations": "Ứng dụng đi kèm",
@@ -147,7 +147,7 @@
         "theme-directory-caption": "Mở",
         "theme-directory-desc": "Bạn có thể đặt tất cả các chủ bạn thích trong thư mục này.",
         "theme-reset": "Đặt lại bố cục",
-        "theme-reset-caption": "Cài lại lại",
+        "theme-reset-caption": "Cài đặt lại",
         "theme-reset-desc": "Điều này sẽ đặt lại tất cả tùy chỉnh bố cục về mặc định.",
         "theme-page-configuration": "Cài đặt theo chủ đề cụ thể",
         "theme-page-layout": "Bố cục giao diện",
