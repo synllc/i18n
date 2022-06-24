@@ -1,5 +1,5 @@
 {
-    "flag": "CN",
+    "flag": "🇨🇳",
     "name": "中文",
 
     "translation": {
@@ -29,7 +29,7 @@
         "warning-instances": "当前未打开任何实例.",
         "connections-enabled": "连接已启用.",
         "connections-disabled": "连接已禁用.",
-        "button-execute": "执行",
+        "button-execute": "运行",
         "button-clear": "清除",
         "button-open-file": "打开文件夹",
         "button-execute-file": "执行文件",
