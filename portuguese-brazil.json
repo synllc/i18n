@@ -137,7 +137,7 @@
         "settings-navbar-opt2": "Alinhar para baixo",
 
         "settings-gistpat-dialog-title": "Integração Gist",
-        "settings-gistpat-dialog-request": "A integração de GitHub Gist nescessita um token de acesso pessoal. Você gostaria de criar um? (ira abrir uma janela do navegador)",
+        "settings-gistpat-dialog-request": "A integração de GitHub Gist necessita um token de acesso pessoal. Você gostaria de criar um? (ira abrir uma janela do navegador)",
         "settings-gistpat-dialog-input": "Insira seu token de acesso pessoal abaixo.",
 
         "page-theming": "Customização",
