@@ -9,7 +9,7 @@
         "dialog-yes": "Yes",
         "dialog-no": "No",
         "contextmenu-execute": "Execute",
-        "contextmenu-mount": "Mount",
+        "contextmenu-mount": "Open",
         "sidebar-files": "Local files",
         "sidebar-files-diropen": "Open directory",
         "sidebar-gists": "Gists",
