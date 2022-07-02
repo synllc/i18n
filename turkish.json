@@ -122,6 +122,12 @@
         "settings-autochangelog-desc": "Yeni bir güncelleme yüklendikten sonra güncelleme kaydını gösterir.",
         "settings-filelist": "Kenar çubuğunda dizinleri gösterir",
         "settings-filelist-desc": "Kenar çubuğunda gözükmesi için ekstra dizinler ayarlayabilirsiniz.",
+        "settings-hidefiles": "Kenar çubuğunu gizle",
+        "settings-hidefiles-desc": "Kenar çubuğunun görünürlüğünü değiştir. CTRL+B de kullanılabilir.",
+        "settings-sounds": "Sesleri etkinleştir",
+        "settings-sounds-desc": "Etkinleştirildiğinde, bazı arayüz öğelerinin ve bildirimlerin ince sesleri olacak.",
+        "settings-manualupdate": "Manuel güncellemeyi tetikle",
+        "settings-manualupdate-desc": "Manuel güncellemeyi tetiklemek için bu butona bas.",
 
         "settings-minimap-opt1": "Mini haritayı kapat",
         "settings-minimap-opt2": "Mini harita sağda",
