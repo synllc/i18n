@@ -123,7 +123,13 @@
         "settings-autochangelog-desc": "Changelog automatisch anzeigen, nachdem ein Update installiert wurde.",
         "settings-filelist": "Verzeichnisse in der Seitenleiste",
         "settings-filelist-desc": "Sie können festlegen, dass zusätzliche Verzeichnisse in der Seitenleiste angezeigt werden.",
-
+        "settings-hidefiles": "Seitenleiste verstecken",
+        "settings-hidefiles-desc": "Schalten Sie die Seitenleiste auf sichtbar/unsichtbar um. STRG+B kann auch verwendet werden.",
+        "settings-sounds": "Töne anschalten",
+        "settings-sounds-desc": "Wenn diese Option aktiviert ist, haben bestimmte Elemente der Benutzeroberfläche und Benachrichtigungen dezente Töne.",
+        "settings-manualupdate": "Manuelles Update auslösen",
+        "settings-manualupdate-desc": "Klicken Sie diese Taste, um ein manuelles Update auszulösen.",
+        
         "settings-minimap-opt1": "Keine Minimap",
         "settings-minimap-opt2": "Minimap rechts",
         "settings-minimap-opt3": "Minimap links",
