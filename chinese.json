@@ -1,6 +1,6 @@
 {
     "flag": "🇨🇳",
-    "name": "中文",
+    "name": "简体中文",
 
     "translation": {
         "page-editor": "编辑",
@@ -102,7 +102,7 @@
         "settings-classiclayout": "经典布局外观",
         "settings-classiclayout-desc": "使用旧版经典editor编辑器布局.",
         "settings-logconsole": "将控制台记录到文件(console.log)",
-        "settings-logconsole-desc": "将所有控制台输出保存到 console.log",
+        "settings-logconsole-desc": "将所有控制台输出保存到console.log",
         "settings-autoconsole": "运行时显示控制台",
         "settings-autoconsole-desc": "启用时控制台是否会在运行时显示在editor编辑器下.",
         "settings-lspconsole": "记录语言服务器错误并输出",
@@ -123,6 +123,12 @@
         "settings-autochangelog-desc": "每次安装更新后则自动显示更新日志.",
         "settings-filelist": "侧边文件列表",
         "settings-filelist-desc": "你可以设置另外的目录并显示在侧边栏里.",
+        "settings-hidefiles": "隐藏侧边文件栏",
+        "settings-hidefiles-desc": "切换侧边栏的可见性. 同样也可以使用CTRL+B快捷键.",
+        "settings-sounds": "开启提示音",
+        "settings-sounds-desc": "开启后, 某些界面元素和通知会有提示音.",
+        "settings-manualupdate": "手动更新",
+        "settings-manualupdate-desc": "单击此按钮可启动手动更新.",
 
         "settings-minimap-opt1": "无小地图",
         "settings-minimap-opt2": "左侧小地图",
