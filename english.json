@@ -123,6 +123,12 @@
         "settings-autochangelog-desc": "Automatically show the changelog after an update has been installed.",
         "settings-filelist": "Directories in sidebar",
         "settings-filelist-desc": "You can set extra directories to show up in the sidebar.",
+        "settings-hidefiles": "Hide sidebar",
+        "settings-hidefiles-desc": "Toggle the visiblity of the sidebar. CTRL+B can also be used.",
+        "settings-sounds": "Enable sounds",
+        "settings-sounds-desc": "When enabled, certain interface elements and notifications will have subtle sounds.",
+        "settings-manualupdate": "Trigger manual update",
+        "settings-manualupdate-desc": "Click this button to trigger a manual update.",
 
         "settings-minimap-opt1": "No minimap",
         "settings-minimap-opt2": "Minimap on right",
