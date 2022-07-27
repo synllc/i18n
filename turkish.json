@@ -95,6 +95,7 @@
         "settings-topmost-desc": "Arayüzün diğer tüm pencerelerin üstünde olmasını aktifleştirir.",
         "settings-silentlaunch": "Gizli başlatma",
 	"settings-silentlaunch-desc": "Arayüzün görünürlüğünü büyük ölçüde azaltır.",
+        "settings-tray": "Minimal tepsi ikonları kullan.",
         "settings-tray-desc": "Pencere küçültüğünde saklar ve minimal tepsi ikonları kullanır.",
         "settings-verticalnavcenter": "Navigasyon çubuğu öğelerinin hizasını bozar.",
         "settings-verticalnavcenter-desc": "Dikey navigasyon çubuğu öğelerini orta yerine yukarı taşır.",
@@ -122,6 +123,12 @@
         "settings-autochangelog-desc": "Yeni bir güncelleme yüklendikten sonra güncelleme kaydını gösterir.",
         "settings-filelist": "Kenar çubuğunda dizinleri gösterir",
         "settings-filelist-desc": "Kenar çubuğunda gözükmesi için ekstra dizinler ayarlayabilirsiniz.",
+        "settings-hidefiles": "Yançubuğu gizle.",
+        "settings-hidefiles-desc": "Yançubuğun görünürlüğünü açacak ve kapatacaktır. CTRL+B de kullanılabilir.",
+        "settings-sounds": "Sesleri aç",
+        "settings-sounds-desc": "Açık olduğunda, belirli arayüz elemanları ve bildirimler hoş bir sese sahip olacaktır.",
+        "settings-manualupdate": "Manuel güncellemeyi tetikle.",
+        "settings-manualupdate-desc": "Manuel güncellemeyi tetiklemek için bu tuşa basın.",
 
         "settings-minimap-opt1": "Mini haritayı kapat",
         "settings-minimap-opt2": "Mini harita sağda",
@@ -185,7 +192,6 @@
 
         "login-2fa-otp-email": "Tek kullanımlık bir şifre içeren e-posta kayıtlı olan e-posta adresinize gönderildi.",
 	"login-2fa-otp-2auth": "Lütfen doğrulayıcı uygulamanız tarafından üretilen tek kullanımlık kodu girin.",
-
         "login-2fa-otp-error": "Tek kullanımlık kodunuz yanlış. Lütfen tekrar girin.",
 
         "login-status-loggingin": "Giriş yapılan hesap ",
